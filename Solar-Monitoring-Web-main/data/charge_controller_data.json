@@ -1,0 +1,86 @@
+[
+  {
+    "voltage": 29.89,
+    "current": 14.56
+  },
+  {
+    "voltage": 27.77,
+    "current": 14.49
+  },
+  {
+    "voltage": 28.03,
+    "current": 4.18
+  },
+  {
+    "voltage": 28.65,
+    "current": 9.88
+  },
+  {
+    "voltage": 23.77,
+    "current": 1.88
+  },
+  {
+    "voltage": 21.18,
+    "current": 6.57
+  },
+  {
+    "voltage": 25.09,
+    "current": 7.43
+  },
+  {
+    "voltage": 25.48,
+    "current": 10.99
+  },
+  {
+    "voltage": 24.1,
+    "current": 10.1
+  },
+  {
+    "voltage": 20.33,
+    "current": 3.48
+  },
+  {
+    "voltage": 27.44,
+    "current": 11.03
+  },
+  {
+    "voltage": 22.62,
+    "current": 1.74
+  },
+  {
+    "voltage": 26.04,
+    "current": 6.1
+  },
+  {
+    "voltage": 27.95,
+    "current": 12.32
+  },
+  {
+    "voltage": 27.82,
+    "current": 10.17
+  },
+  {
+    "voltage": 22.67,
+    "current": 9.86
+  },
+  {
+    "voltage": 21.65,
+    "current": 3.53
+  },
+  {
+    "voltage": 22.37,
+    "current": 14.55
+  },
+  {
+    "voltage": 24.19,
+    "current": 7.22
+  },
+  {
+    "voltage": 22.8,
+    "current": 10.55
+  },
+  {
+    "voltage": 26.02,
+    "current": 6.04
+  }
+]
